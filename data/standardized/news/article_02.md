@@ -1,0 +1,57 @@
+# Lòng kính yêu Bác phải được thể hiện bằng sự tận tâm phục vụ nhân dânXây dựng TP.Bắc Ninh hiện đại vẫn đậm đà văn hóa Kinh Bắc
+
+**Source:** https://thanhnien.vn/long-kinh-yeu-bac-phai-duoc-the-hien-bang-su-tan-tam-phuc-vu-nhan-dan-185260919212555046.htm
+
+**Crawled:** 2026-09-20T15:00:29.558827
+
+---
+
+## Dựng nước, giữ nước là sự nghiệp của mọi người VN
+
+Dự và phát biểu tại lễ kỷ niệm, [Tổng Bí thư, Chủ tịch nước Tô Lâm](https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-trao-nghi-quyet-thanh-lap-thanh-pho-bac-ninh-18526091913161782.htm "Tổng Bí thư, Chủ tịch nước Tô Lâm") nêu rõ tượng đài "[Bác Hồ với ngày hội non sông](https://thanhnien.vn/khanh-thanh-tuong-dai-bac-ho-voi-ngay-hoi-non-song-tai-khu-di-tich-den-hung-185260919094514485.htm "Bác Hồ với ngày hội non sông")" khánh thành hôm nay thể hiện tình cảm sâu nặng của nhân dân đối với Người. Trong không gian cội nguồn của dân tộc, hình tượng Bác gắn kết mọi thời đại, gợi lên tình nghĩa đồng bào và sức mạnh đoàn kết của mọi người VN. Cùng với bức phù điêu Bác Hồ nói chuyện với cán bộ, chiến sĩ Đại đoàn Quân Tiên Phong, công trình giúp các thế hệ hiểu sâu hơn lời Bác dạy, ý thức rõ hơn trách nhiệm đối với đất nước.
+
+![Lòng kính yêu Bác phải được thể hiện bằng sự tận tâm phục vụ nhân dân- Ảnh 1.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/9/19/1-tong-bi-thu-chu-tich-nuoc-to-lam-va-cac-dai-bieu-tai-le-khanh-thanh-tuong-dai-bac-ho-voi-ngay-hoi-non-songanh-ttxvn-1789827769836633402895.jpg)
+
+Tổng Bí thư, Chủ tịch nước Tô Lâm và các đại biểu tại lễ khánh thành tượng đài “Bác Hồ với Ngày hội non sông”
+
+ẢNH: TTXVN
+
+Tổng Bí thư, Chủ tịch nước nhấn mạnh, khắc ghi lời Bác, chúng ta kiên quyết, kiên trì bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa; phải chủ động bảo vệ Tổ quốc từ sớm, từ xa; xây dựng nền quốc phòng toàn dân, nền an ninh nhân dân vững mạnh, dựa chắc vào thế trận lòng dân.
+
+Tổng Bí thư, Chủ tịch nước cho biết mục tiêu đến năm 2030 trở thành nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao, đến năm 2045 trở thành nước phát triển, thu nhập cao, đòi hỏi chúng ta hành động quyết liệt ngay từ hôm nay. Mỗi bước tiến phải gắn với nâng cao đời sống nhân dân, bảo vệ môi trường và giữ gìn bản sắc văn hóa. Phát triển đất nước là trách nhiệm đối với những người đã hy sinh và đối với các thế hệ mai sau. Dựng nước, giữ nước là sự nghiệp của mọi người VN, ở mọi miền Tổ quốc và khắp năm châu.
+
+Tổng Bí thư, Chủ tịch nước cũng nhấn mạnh Đảng phải thường xuyên tự đổi mới, tự chỉnh đốn, giữ vững sự trong sạch, gắn bó mật thiết với nhân dân; bộ máy nhà nước phải liêm chính, hoạt động hiệu lực, hiệu quả. Phải kiên quyết đấu tranh phòng, chống tham nhũng, lãng phí, tiêu cực; đề cao trách nhiệm nêu gương của người đứng đầu. Lòng kính yêu Bác phải được thể hiện bằng sự tận tâm phục vụ nhân dân.
+
+Tổng Bí thư, Chủ tịch nước đề nghị tỉnh Phú Thọ phối hợp với Bộ Công an, Bộ VH-TT-DL cùng các cơ quan liên quan quản lý, bảo vệ công trình lâu dài, khoa học; gìn giữ sự tôn nghiêm, cảnh quan và giá trị gốc của khu di tích. Các thanh thiếu niên hãy học tập, rèn luyện để có tri thức, bản lĩnh, sức khỏe; sống trung thực, nhân ái, biết sẻ chia; tự tin làm chủ khoa học, công nghệ và vươn ra thế giới. Đảng, Nhà nước và xã hội phải tạo điều kiện để thế hệ trẻ phát triển tài năng, đóng góp cho Tổ quốc.
+
+## Bắc Ninh phải đưa văn hóa cộng đồng vào đời sống hiện đại
+
+Sáng cùng ngày, tỉnh Bắc Ninh đã tổ chức lễ công bố Nghị quyết của Quốc hội về việc thành lập [TP.Bắc Ninh](https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-trao-nghi-quyet-thanh-lap-thanh-pho-bac-ninh-18526091913161782.htm "TP.Bắc Ninh") và đón nhận Huân chương Lao động hạng nhất. Tổng Bí thư, Chủ tịch nước Tô Lâm dự và phát biểu tại buổi lễ.
+
+![Lòng kính yêu Bác phải được thể hiện bằng sự tận tâm phục vụ nhân dân- Ảnh 2.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/9/19/2-tbtbac-ninh-17898277962701282013703.jpg)
+
+Tổng Bí thư, Chủ tịch nước Tô Lâm phát biểu chỉ đạo tại buổi lễ công bố Nghị quyết thành lập TP.Bắc Ninh
+
+ẢNH: TTXVN
+
+Thay mặt lãnh đạo Đảng, Nhà nước, Tổng Bí thư, Chủ tịch nước đã trao Nghị quyết số 39/2026/QH16 của Quốc hội (có hiệu lực từ ngày 20.9.2026) về thành lập TP.Bắc Ninh và trao Huân chương Lao động hạng nhất cho Đảng bộ, chính quyền và nhân dân tỉnh Bắc Ninh, vì có thành tích xuất sắc trong phát triển kinh tế - xã hội, góp phần vào sự nghiệp xây dựng xã hội chủ nghĩa và bảo vệ Tổ quốc.
+
+Phát biểu tại buổi lễ, Tổng Bí thư, Chủ tịch nước khẳng định Bắc Ninh - Kinh Bắc là vùng đất có chiều sâu hiếm có về lịch sử - văn hóa; nơi địa linh nhân kiệt, khoa bảng và cách mạng; là quê hương của nhiều bậc hiền tài, danh nhân lịch sử, văn hóa và nhiều nhà cách mạng tiền bối của Đảng; là cội nguồn của nhiều lễ hội, nghệ thuật dân gian và làng nghề truyền thống…
+
+Tổng Bí thư, Chủ tịch nước nhấn mạnh với vị thế mới, Bắc Ninh có thêm không gian, mở ra dư địa phát triển rộng lớn hơn, song cũng đặt ra yêu cầu phải kế thừa, phát huy xứng đáng những thành quả và giá trị mà các thế hệ đi trước đã dày công vun đắp và gánh trên vai những trọng trách lớn hơn đối với nhân dân và sự phát triển chung của đất nước.
+
+Trong không gian phát triển mới, Bắc Ninh có nền tảng quan trọng về công nghiệp, hạ tầng, nguồn nhân lực, khả năng thu hút đầu tư và chiều sâu văn hóa được tích lũy qua nhiều thế hệ. Vì vậy, yêu cầu đặt ra là phải phát triển nhanh ở tầm cao mới, quản trị tốt hơn, chủ động và tự chủ hơn, phát triển bền vững hơn; trong đó, mọi thành quả phát triển phải thực sự hướng tới mục tiêu nâng cao đời sống vật chất, tinh thần và hạnh phúc của nhân dân.
+
+Tổng Bí thư, Chủ tịch nước đề nghị Đảng bộ, chính quyền TP.Bắc Ninh phải xác lập tầm nhìn dài hạn và mô hình phát triển riêng, trong đó Bắc Ninh cần định vị rõ vai trò trong 20 - 30 năm tới; kiến tạo con đường phát triển dựa trên lợi thế về công nghiệp, văn hóa, con người và liên kết vùng...
+
+Sự phát triển của Bắc Ninh phải được thể hiện bằng năng lực công nghệ của chính mình, sự trưởng thành của doanh nghiệp trong nước và phần giá trị ngày càng lớn được tạo ra, giữ lại trên quê hương, tạo ra giá trị gia tăng cao hơn và đóng góp lớn hơn cho cả nước.
+
+Quan tâm tổ chức lại không gian phát triển, xây dựng đô thị xanh, thông minh, hiện đại và đáng sống. Trong đó, Bắc Ninh phải được quy hoạch như một chỉnh thể thống nhất, kết nối hài hòa công nghiệp, đô thị, dịch vụ, nông nghiệp, sinh thái và văn hóa; ưu tiên hạ tầng liên kết vùng, chuẩn bị đồng bộ kết nối với Cảng hàng không quốc tế Gia Bình.
+
+Đầu tư tương xứng cho giao thông công cộng, nhà ở, trường học, bệnh viện, công viên và thiết chế văn hóa; đồng thời đẩy mạnh quản trị đô thị bằng dữ liệu; giải quyết căn cơ ô nhiễm tại các khu công nghiệp, làng nghề và lưu vực sông. "Đô thị hóa phải kiến tạo môi trường sống văn minh, tiện nghi, an toàn và đáng sống cho nhân dân", Tổng Bí thư, Chủ tịch nước nhấn mạnh.
+
+Tổng Bí thư, Chủ tịch nước cũng yêu cầu xây dựng bộ máy quản trị và đội ngũ cán bộ tương xứng với vị thế mới, đảm bảo thống nhất, khoa học, tinh gọn, gần dân, hiểu dân và phục vụ nhân dân. Cán bộ phải có tư duy chiến lược, năng lực quản trị hiện đại, dám nghĩ, dám làm và giỏi tổ chức thực hiện.
+
+Tổng Bí thư, Chủ tịch nước cũng lưu ý Bắc Ninh phải đưa Quan họ, tranh Đông Hồ, làng nghề, di tích, truyền thống hiếu học và văn hóa cộng đồng vào đời sống hiện đại, biến di sản thành nguồn lực cho công nghiệp văn hóa, du lịch và sáng tạo.
+
+Tổng Bí thư, Chủ tịch nước đặc biệt nhấn mạnh trách nhiệm của thế hệ hôm nay, xây dựng Bắc Ninh trở thành đô thị hiện đại, xanh, nhân văn, có nền công nghiệp công nghệ cao, có những doanh nghiệp VN đủ sức vươn ra thế giới, nhưng vẫn là thành phố đậm đà hồn cốt và văn hóa Kinh Bắc.

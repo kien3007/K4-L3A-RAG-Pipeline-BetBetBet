@@ -14,7 +14,15 @@ Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vư�
 from pathlib import Path
 
 
+import requests
+
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
+
+SOURCES = {
+    "89-vbhn-vpqh-luat-ngan-sach-nha-nuoc.pdf": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/89-vbhn-vpqh.pdf",
+    "55-vbhn-vpqh-luat-trat-tu-an-toan-giao-thong-duong-bo.pdf": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+    "72-vbhn-vpqh-luat-giao-duc.pdf": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/72-vbhn-vpqh.pdf",
+}
 
 
 def setup_directory() -> None:
@@ -25,21 +33,21 @@ def setup_directory() -> None:
 
 def download_documents() -> None:
     """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+
+    for filename, url in SOURCES.items():
+        destination = DATA_DIR / filename
+        print(f"Downloading: {filename} from {url}...")
+        response = requests.get(url, headers=headers, timeout=60)
+        response.raise_for_status()
+
+        destination.write_bytes(response.content)
+        print(f"Saved: {destination} ({len(response.content):,} bytes)")
 
 
 if __name__ == "__main__":
     setup_directory()
     download_documents()
+

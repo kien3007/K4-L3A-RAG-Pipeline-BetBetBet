@@ -1,0 +1,87 @@
+# Cơ hội thúc đẩy quan hệ Việt - Mỹ
+
+**Source:** https://thanhnien.vn/co-hoi-thuc-day-quan-he-viet-my-185260919232916729.htm
+
+**Crawled:** 2026-09-20T15:00:30.624419
+
+---
+
+Ngay trước thềm chuyến công tác của [Tổng Bí thư, Chủ tịch nước Tô Lâm](https://thanhnien.vn/tong-bi-thu-chu-tich-nuoc-to-lam-sap-co-chuyen-cong-tac-tai-my-va-tham-canada-185260917162730872.htm " Tổng Bí thư, Chủ tịch nước Tô Lâm") đến [Mỹ](https://thanhnien.vn/ong-trump-noi-my-kiem-soat-vinh-vien-an-ninh-cho-greenland-185260919171421138.htm "Mỹ") và [Canada](https://thanhnien.vn/eu-muon-canada-la-thanh-vien-lien-ket-ong-trump-noi-nuc-cuoi-185260917131513437.htm "Canada"), nhiều chuyên gia quốc tế đã đưa ra nhận định về quan hệ Việt - Mỹ khi trả lời phỏng vấn *Thanh Niên*.
+
+![Cơ hội thúc đẩy quan hệ Việt - Mỹ- Ảnh 1.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/9/19/3a-1789834265864272159339.jpg)
+
+Tổng Bí thư, Chủ tịch nước Tô Lâm trong lần gặp Tổng thống Mỹ Donald Trump tại Nhà Trắng vào ngày 20.2
+
+Ảnh: TTXVN
+
+## Mối quan hệ vững chắc
+
+![Cơ hội thúc đẩy quan hệ Việt - Mỹ- Ảnh 2.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/9/19/stephen-robert-nagy--1789834367320196701274.jpg)
+
+GS Stephen Robert Nagy *(ĐH Cơ Đốc giáo quốc tế - Nhật Bản, học giả tại Viện Nghiên cứu các vấn đề quốc tế của Nhật)*
+
+Ảnh: NVCC
+
+Quan hệ Việt - Mỹ đã không ngừng được củng cố và phát triển sâu sắc hơn trong những thập niên qua nhờ vào đường lối ngoại giao khéo léo và tinh tế của cả hai bên. Trên cơ sở chính sách "4 không", VN đã tích cực hợp tác với Mỹ và cộng đồng doanh nghiệp nước này để xây dựng các mối quan hệ ngoại giao và kinh tế vững chắc. Về phía Washington, qua nhiều đời chính quyền, Mỹ luôn chú trọng xây dựng mối quan hệ đáp ứng lợi ích quốc gia của cả hai nước, đồng thời thấu hiểu những vấn đề nhạy cảm đối với VN.
+
+Chuyến thăm này sẽ tiếp tục duy trì đà phát triển đó, nhất là khi Tổng Bí thư, Chủ tịch nước Tô Lâm và Tổng thống Mỹ Donald Trump đã từng thảo luận về các vấn đề thương mại. Ông Trump có thể đưa ra những phát biểu về thương mại, nhưng đó là những tuyên bố nhằm thu hút cử tri trong nước trước thềm cuộc bầu cử giữa nhiệm kỳ, chứ không xuất phát từ ý định áp thêm thuế quan lên hàng hóa VN.
+
+## Cùng duy trì sự cân bằng, ổn định ở khu vực
+
+![Cơ hội thúc đẩy quan hệ Việt - Mỹ- Ảnh 3.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/9/19/derek-grossman-178983446378382750520.jpg)
+
+Chuyên gia Derek Grossman *(Giáo sư thực hành khoa học chính trị và quan hệ quốc tế, ĐH Nam California, Mỹ)*
+
+Ảnh: NVCC
+
+Quan hệ Việt - Mỹ đã trải qua một trong những bước chuyển mình đáng kể trong các vấn đề quốc tế hiện đại. Năm thập niên sau khi Chiến tranh VN kết thúc và hơn 30 năm kể từ khi bình thường hóa quan hệ ngoại giao vào năm 1995, hai bên đã xây dựng mối quan hệ đối tác ngày càng khăng khít dựa trên những lợi ích chung về kinh tế và chiến lược. Mối quan hệ này đã đạt đến tầm cao mới vào năm 2023 khi hai nước nâng cấp quan hệ lên Đối tác chiến lược toàn diện, Mỹ vào nhóm các đối tác hàng đầu của VN.
+
+Xét về mặt chiến lược, những thách thức nổi lên ở khu vực gần đây đã góp phần gắn kết hai nước lại gần nhau hơn. Mỹ đã hỗ trợ năng lực an ninh hàng hải của VN - bao gồm việc cung cấp tàu tuần tra cho lực lượng cảnh sát biển, tổ chức huấn luyện và các hình thức hỗ trợ khác - đồng thời luôn nhấn mạnh tầm quan trọng của tự do hàng hải và việc tôn trọng luật pháp quốc tế.
+
+Quan hệ kinh tế cũng đóng vai trò quan trọng không kém. Mỹ là một trong những thị trường xuất khẩu lớn nhất của VN, trong khi VN đang nổi lên như một trung tâm sản xuất và chuỗi cung ứng ngày càng quan trọng đối với các doanh nghiệp Mỹ đang tìm cách đa dạng hóa hoạt động sản xuất trong quá trình tái cấu trúc chuỗi cung ứng. Hợp tác giữa hai bên đã mở rộng sang các lĩnh vực như bán dẫn, khoáng sản thiết yếu, năng lượng sạch và các công nghệ mới nổi khác.
+
+Bất chấp những thách thức liên quan thương mại, xu hướng phát triển quan hệ Việt - Mỹ vẫn rất tích cực. Cả hai đều ngày càng xem nhau là đối tác quan trọng trong việc duy trì sự cân bằng ổn định tại khu vực, tăng cường khả năng chống chịu của nền kinh tế và ngăn chặn các thách thức ở Đông Nam Á.
+
+## Mối quan hệ tốt đẹp
+
+![Cơ hội thúc đẩy quan hệ Việt - Mỹ- Ảnh 4.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/9/19/dov-zakheim-17898345375821226309784.jpg)
+
+Ông Dov Zakheim *(cựu Thứ trưởng Bộ Quốc phòng Mỹ và đang cố vấn cho nhiều cơ quan nghiên cứu chính sách Mỹ về đối ngoại)*
+
+Ảnh: NVCC
+
+Mối quan Việt - Mỹ đang tốt đẹp. Cả hai nước đều có chung những lo ngại về sự ổn định tại Đông Nam Á. Ngoài ra, sau khi các chương trình khắc phục hậu quả chiến tranh được tiếp tục thúc đẩy, đến thăm VN vào tháng 11.2025, Bộ trưởng Quốc phòng Mỹ Pete Hegseth khẳng định đây là "nền tảng" cho quan hệ hợp tác chiến lược giữa hai nước. Quốc hội Mỹ tiếp tục cấp ngân sách lên tới 15 triệu USD mỗi năm cho dự án xử lý ô nhiễm tại Biên Hòa. VN cũng là đối tác thương mại lớn của Mỹ.
+
+Tôi tin rằng chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm đến Mỹ lần này sẽ có nhiều thuận lợi.
+
+## Dịp để tăng cường hợp tác
+
+![Cơ hội thúc đẩy quan hệ Việt - Mỹ- Ảnh 5.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/9/19/yoichiro-sato-17898346095661641624756.jpg)
+
+GS Yoichiro Sato *(chuyên gia về quan hệ quốc tế, ĐH Ritsumeikan châu Á - Thái Bình Dương, Nhật Bản)*
+
+Ảnh: NVCC
+
+Dù vẫn còn một số hạn chế nhất định, nhưng quan hệ Việt - Mỹ hiện ít có những điểm bất đồng. Việc hai bên đạt được thỏa thuận thuế quan song phương đã tạo nền tảng vững chắc cho quan hệ Việt - Mỹ. Chuyến công tác lần này của Tổng Bí thư, Chủ tịch nước Tô Lâm đến Mỹ sẽ là dịp để hai nước tái khẳng định mối quan hệ song phương tốt đẹp và tăng cường hợp tác giữa hai bên.
+
+## Lợi ích chiến lược và kinh tế thực chất
+
+![Cơ hội thúc đẩy quan hệ Việt - Mỹ- Ảnh 6.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/9/19/jonathan-miller-17898349300131844132056.jpg)
+
+TS Jonathan Berkshire Miller *(Đồng sáng lập kiêm điều hành mảng tư vấn địa chính trị, Tập đoàn Pendulum, Canada)*
+
+Ảnh: NVCC
+
+Chuyến công tác lần này của Tổng Bí thư, Chủ tịch nước Tô Lâm đến Mỹ diễn ra vào thời điểm then chốt trong quá trình quan hệ hai nước đang không ngừng được củng cố và đi vào chiều sâu; mối quan hệ này ngày càng được thúc đẩy bởi các lợi ích chiến lược và kinh tế thực chất.
+
+Washington xem VN là đối tác ngày càng quan trọng tại Ấn Độ Dương - Thái Bình Dương, vốn là khu vực đang đối mặt sự cạnh tranh gay gắt. VN tất nhiên cũng muốn tăng cường vị thế trong quan hệ với Mỹ trên các lĩnh vực thương mại, công nghệ, chuỗi cung ứng và an ninh. Câu hỏi đặt ra là mức độ sẵn sàng chuyển hóa sự tương đồng về lợi ích đó thành hợp tác chiến lược cụ thể.
+
+## Khai phá hơn nữa tiềm năng hợp tác công nghệ
+
+![Cơ hội thúc đẩy quan hệ Việt - Mỹ- Ảnh 7.](https://images2.thanhnien.vn/528068263637045248/2026/9/19/patrick-cronin-17898350204971339280970.jpg)
+
+TS Patrick Cronin *(Chủ tịch Chương trình an ninh châu Á - Thái Bình Dương, Viện Nghiên cứu Hudson, Mỹ)*
+
+Ảnh: NVCC
+
+Quan hệ Việt - Mỹ cần tăng cường hơn nữa và cần có thêm các sáng kiến mới. Chẳng hạn, lực lượng tuần duyên Mỹ có thể triển khai các hoạt động hợp tác mới dựa trên lợi ích chung. Bên cạnh đó, cách tiếp cận hiện nay đối với vấn đề thương mại cần khai phá hơn nữa tiềm năng hợp tác công nghệ song phương sâu rộng.
