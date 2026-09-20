@@ -1,6 +1,0 @@
-[server]
-fileWatcherType = "poll"
-headless = true
-
-[browser]
-gatherUsageStats = false
