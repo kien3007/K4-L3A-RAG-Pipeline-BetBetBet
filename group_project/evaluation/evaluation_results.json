@@ -1,0 +1,431 @@
+{
+  "metrics_a": {
+    "faithfulness": 0.9723,
+    "answer_relevance": 0.8738,
+    "context_recall": 0.9021,
+    "context_precision": 1.0,
+    "average": 0.9371,
+    "latency_seconds": 40.09
+  },
+  "metrics_b": {
+    "faithfulness": 0.9686,
+    "answer_relevance": 0.8521,
+    "context_recall": 0.9283,
+    "context_precision": 1.0,
+    "average": 0.9373,
+    "latency_seconds": 33.53
+  },
+  "details_a": [
+    {
+      "index": 1,
+      "question": "Nghị quyết của Quốc hội về việc thành lập thành phố Bắc Ninh có số hiệu là gì và có hiệu lực từ ngày nào?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 1.0,
+      "answer": "Nghị quyết của Quốc hội về việc thành lập thành phố Bắc Ninh có số hiệu là 39/2026/QH16 và có hiệu lực từ ngày 20.9.2026 [Document 1]."
+    },
+    {
+      "index": 2,
+      "question": "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Phiên thảo luận của Đại hội đồng Liên Hiệp Quốc khóa mấy và thăm nước nào theo lời mời của ai?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 1.0,
+      "answer": "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Phiên thảo luận cấp cao Đại hội đồng Liên Hiệp Quốc khóa 81 và thăm cấp nhà nước tới Canada theo lời mời của Toàn quyền Canada Louise Arbour [Document 4]."
+    },
+    {
+      "index": 3,
+      "question": "Những thành viên chính thức nào tham gia đoàn đại biểu cấp cao tháp tùng Tổng Bí thư, Chủ tịch nước Tô Lâm đi Mỹ và Canada?",
+      "config": "Config A",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.2453,
+      "precision": 1.0,
+      "average": 0.6238,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 4,
+      "question": "Tại sao Đảng bộ, chính quyền và nhân dân tỉnh Bắc Ninh được trao tặng Huân chương Lao động hạng nhất?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 0.995,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9988,
+      "answer": "Đảng bộ, chính quyền và nhân dân tỉnh Bắc Ninh được trao tặng Huân chương Lao động hạng nhất vì có thành tích xuất sắc trong phát triển kinh tế - xã hội, góp phần vào sự nghiệp xây dựng xã hội chủ nghĩa và bảo vệ Tổ quốc [Document 2], [Document 5]."
+    },
+    {
+      "index": 5,
+      "question": "Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Mỹ và Canada có ý nghĩa như thế nào đối với quan hệ đối ngoại của Việt Nam?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 0.9409,
+      "recall": 0.967,
+      "precision": 1.0,
+      "average": 0.977,
+      "answer": "Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Mỹ và Canada có ý nghĩa quan trọng trong việc thắt chặt và làm sâu sắc hơn quan hệ giữa Việt Nam với Liên Hiệp Quốc, với Mỹ và các đối tác, đồng thời thúc đẩy quan hệ Việt Nam - Canada phát triển thực chất và gắn kết hơn nữa. Đây cũng là dịp để khẳng định một Việt Nam chủ động, tích cực và có trách nhiệm trong quan hệ quốc tế [Document 1], [Document 4]. \n\nNgoài ra, chuyến công tác diễn ra vào thời điểm then chốt trong quá trình củng cố và đi vào chiều sâu của quan hệ Việt - Mỹ, được thúc đẩy bởi các lợi ích chiến lược và kinh tế thực chất [Document 5]."
+    },
+    {
+      "index": 6,
+      "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, hành vi điều khiển phương tiện tham gia giao thông khi có nồng độ cồn bị quy định như thế nào?",
+      "config": "Config A",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.5789,
+      "precision": 1.0,
+      "average": 0.7072,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 7,
+      "question": "Luật Trật tự, an toàn giao thông đường bộ quy định tín hiệu đèn giao thông màu vàng có ý nghĩa gì?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 0.7937,
+      "recall": 0.9286,
+      "precision": 1.0,
+      "average": 0.9306,
+      "answer": "Tín hiệu đèn giao thông màu vàng có ý nghĩa là người điều khiển phương tiện tham gia giao thông đường bộ phải dừng lại trước vạch dừng. Nếu đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được phép tiếp tục đi. Trong trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác [Document 2]."
+    },
+    {
+      "index": 8,
+      "question": "Người lái xe chỉ được vượt xe khác khi đáp ứng những điều kiện an toàn nào theo quy định pháp luật giao thông đường bộ?",
+      "config": "Config A",
+      "faithfulness": 0.9973,
+      "relevance": 1.0,
+      "recall": 0.871,
+      "precision": 1.0,
+      "average": 0.9671,
+      "answer": "Người lái xe chỉ được vượt xe khác khi đáp ứng những điều kiện an toàn sau đây theo quy định pháp luật giao thông đường bộ:\n\n1. Phải quan sát hai bên và phía sau xe để đảm bảo an toàn trước khi thực hiện hành động vượt.\n2. Chỉ được vượt xe khi có đủ khoảng cách an toàn với xe phía trước, phía sau và hai bên.\n3. Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên, phải tuân thủ quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này [Document 4].\n\nNgoài ra, khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường [Document 5]."
+    },
+    {
+      "index": 9,
+      "question": "Luật Trật tự, an toàn giao thông đường bộ được ban hành dưới dạng Văn bản hợp nhất số bao nhiêu của Văn phòng Quốc hội?",
+      "config": "Config A",
+      "faithfulness": 0.9583,
+      "relevance": 1.0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9896,
+      "answer": "Luật Trật tự, an toàn giao thông đường bộ được ban hành dưới dạng Văn bản hợp nhất số 55/VBHN-VPQH của Văn phòng Quốc hội [Document 1]."
+    },
+    {
+      "index": 10,
+      "question": "Theo Luật Giáo dục, những cấp học nào là giáo dục bắt buộc và phổ cập giáo dục ở Việt Nam?",
+      "config": "Config A",
+      "faithfulness": 0.9537,
+      "relevance": 0.9,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9634,
+      "answer": "Theo Luật Giáo dục, giáo dục bắt buộc ở Việt Nam bao gồm giáo dục tiểu học và giáo dục trung học cơ sở. Đồng thời, nhà nước cũng thực hiện phổ cập giáo dục mầm non cho trẻ em từ 03 tuổi đến 06 tuổi [Document 1]."
+    },
+    {
+      "index": 11,
+      "question": "Văn bản hợp nhất Luật Giáo dục mang số hiệu bao nhiêu của Văn phòng Quốc hội?",
+      "config": "Config A",
+      "faithfulness": 0.9471,
+      "relevance": 0.96,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9768,
+      "answer": "Văn bản hợp nhất Luật Giáo dục mang số hiệu 72/VBHN-VPQH của Văn phòng Quốc hội [Document 1]."
+    },
+    {
+      "index": 12,
+      "question": "Luật Giáo dục quy định mục tiêu giáo dục của nước ta là gì?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 1.0,
+      "answer": "Luật Giáo dục quy định mục tiêu giáo dục của nước ta là nhằm phát triển toàn diện con người Việt Nam có đạo đức, tri thức, văn hóa, sức khỏe, thẩm mỹ và nghề nghiệp; có phẩm chất, năng lực và ý thức công dân; có lòng yêu nước, tinh thần dân tộc, trung thành với lý tưởng độc lập dân tộc và chủ nghĩa xã hội; phát huy tiềm năng, khả năng sáng tạo của mỗi cá nhân; nâng cao dân trí, phát triển nguồn nhân lực, bồi dưỡng nhân tài [Document 5]."
+    },
+    {
+      "index": 13,
+      "question": "Theo Luật Ngân sách nhà nước, mức bố trí dự phòng ngân sách nhà nước ở mỗi cấp ngân sách là bao nhiêu phần trăm tổng chi?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 0.8118,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9529,
+      "answer": "Mức bố trí dự phòng ngân sách nhà nước ở mỗi cấp ngân sách là từ 2% đến 5% tổng chi ngân sách mỗi cấp [Document 1]."
+    },
+    {
+      "index": 14,
+      "question": "Dự phòng ngân sách nhà nước được sử dụng vào những mục đích cấp bách nào?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 0.85,
+      "recall": 0.9737,
+      "precision": 1.0,
+      "average": 0.9559,
+      "answer": "Dự phòng ngân sách nhà nước được sử dụng để chi phòng, chống, khắc phục hậu quả thiên tai, thảm họa, dịch bệnh, và cứu trợ các nhiệm vụ cấp bách khác phát sinh ngoài dự toán mà sau khi sắp xếp lại ngân sách, sử dụng hết dự phòng ngân sách mà vẫn chưa đủ nguồn [Document 1], [Document 5]."
+    },
+    {
+      "index": 15,
+      "question": "Văn bản hợp nhất Luật Ngân sách nhà nước có số hiệu bao nhiêu của Văn phòng Quốc hội?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 0.9688,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9922,
+      "answer": "Văn bản hợp nhất Luật Ngân sách nhà nước có số hiệu 89/VBHN-VPQH của Văn phòng Quốc hội [Document 1]."
+    },
+    {
+      "index": 16,
+      "question": "Theo Luật Ngân sách nhà nước, nguyên tắc cân đối ngân sách nhà nước quy định thu ngân sách phải bảo đảm những khoản chi nào?",
+      "config": "Config A",
+      "faithfulness": 1.0,
+      "relevance": 0.96,
+      "recall": 0.8696,
+      "precision": 1.0,
+      "average": 0.9574,
+      "answer": "Theo Luật Ngân sách nhà nước, nguyên tắc cân đối ngân sách nhà nước quy định rằng tổng số thu từ thuế, phí, lệ phí và các khoản thu khác thuộc ngân sách phải lớn hơn tổng số chi thường xuyên và góp phần tích lũy ngày càng cao để chi đầu tư phát triển [Document 5]."
+    }
+  ],
+  "details_b": [
+    {
+      "index": 1,
+      "question": "Nghị quyết của Quốc hội về việc thành lập thành phố Bắc Ninh có số hiệu là gì và có hiệu lực từ ngày nào?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 1.0,
+      "answer": "Nghị quyết của Quốc hội về việc thành lập thành phố Bắc Ninh có số hiệu là 39/2026/QH16 và có hiệu lực từ ngày 20.9.2026 [Document 1]."
+    },
+    {
+      "index": 2,
+      "question": "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Phiên thảo luận của Đại hội đồng Liên Hiệp Quốc khóa mấy và thăm nước nào theo lời mời của ai?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 1.0,
+      "answer": "Tổng Bí thư, Chủ tịch nước Tô Lâm lên đường tham dự Phiên thảo luận cấp cao Đại hội đồng Liên Hiệp Quốc khóa 81 và thăm cấp nhà nước tới Canada theo lời mời của Toàn quyền Canada Louise Arbour [Document 2]."
+    },
+    {
+      "index": 3,
+      "question": "Những thành viên chính thức nào tham gia đoàn đại biểu cấp cao tháp tùng Tổng Bí thư, Chủ tịch nước Tô Lâm đi Mỹ và Canada?",
+      "config": "Config B",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.3962,
+      "precision": 1.0,
+      "average": 0.6616,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 4,
+      "question": "Tại sao Đảng bộ, chính quyền và nhân dân tỉnh Bắc Ninh được trao tặng Huân chương Lao động hạng nhất?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 0.995,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9988,
+      "answer": "Đảng bộ, chính quyền và nhân dân tỉnh Bắc Ninh được trao tặng Huân chương Lao động hạng nhất vì đã có thành tích xuất sắc trong phát triển kinh tế - xã hội, góp phần vào sự nghiệp xây dựng xã hội chủ nghĩa và bảo vệ Tổ quốc [Document 1]."
+    },
+    {
+      "index": 5,
+      "question": "Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Mỹ và Canada có ý nghĩa như thế nào đối với quan hệ đối ngoại của Việt Nam?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 0.9727,
+      "recall": 0.978,
+      "precision": 1.0,
+      "average": 0.9877,
+      "answer": "Chuyến công tác của Tổng Bí thư, Chủ tịch nước Tô Lâm tại Mỹ và Canada có ý nghĩa quan trọng trong việc thắt chặt và làm sâu sắc hơn quan hệ giữa Việt Nam với Liên Hiệp Quốc, Mỹ và các đối tác. Nó cũng góp phần thúc đẩy quan hệ Việt Nam - Canada phát triển thực chất và gắn kết hơn nữa. Thứ trưởng Bộ Ngoại giao Đặng Hoàng Giang đã khẳng định rằng đây là chuyến công tác đầu tiên của Tổng Bí thư, Chủ tịch nước Tô Lâm tới Liên Hiệp Quốc, Mỹ và Canada sau khi Việt Nam tổ chức thành công Đại hội Đảng toàn quốc lần thứ XIV, bầu cử Quốc hội Khóa XVI và Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031, điều này cho thấy sự chủ động và tích cực của Việt Nam trong quan hệ quốc tế [Document 2], [Document 5]."
+    },
+    {
+      "index": 6,
+      "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, hành vi điều khiển phương tiện tham gia giao thông khi có nồng độ cồn bị quy định như thế nào?",
+      "config": "Config B",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.8947,
+      "precision": 1.0,
+      "average": 0.7862,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 7,
+      "question": "Luật Trật tự, an toàn giao thông đường bộ quy định tín hiệu đèn giao thông màu vàng có ý nghĩa gì?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 0.7937,
+      "recall": 0.9286,
+      "precision": 1.0,
+      "average": 0.9306,
+      "answer": "Tín hiệu đèn giao thông màu vàng có ý nghĩa là phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp. Nếu tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác [Document 1], [Document 3], [Document 5]."
+    },
+    {
+      "index": 8,
+      "question": "Người lái xe chỉ được vượt xe khác khi đáp ứng những điều kiện an toàn nào theo quy định pháp luật giao thông đường bộ?",
+      "config": "Config B",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.8387,
+      "precision": 1.0,
+      "average": 0.7722,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 9,
+      "question": "Luật Trật tự, an toàn giao thông đường bộ được ban hành dưới dạng Văn bản hợp nhất số bao nhiêu của Văn phòng Quốc hội?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 1.0,
+      "answer": "Luật Trật tự, an toàn giao thông đường bộ được ban hành dưới dạng Văn bản hợp nhất số 55/VBHN-VPQH của Văn phòng Quốc hội [Document 1]."
+    },
+    {
+      "index": 10,
+      "question": "Theo Luật Giáo dục, những cấp học nào là giáo dục bắt buộc và phổ cập giáo dục ở Việt Nam?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 0.85,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9625,
+      "answer": "Theo Luật Giáo dục, giáo dục tiểu học và giáo dục trung học cơ sở là giáo dục bắt buộc. Nhà nước cũng thực hiện phổ cập giáo dục mầm non cho trẻ em từ 03 tuổi đến 06 tuổi [Document 1]."
+    },
+    {
+      "index": 11,
+      "question": "Văn bản hợp nhất Luật Giáo dục mang số hiệu bao nhiêu của Văn phòng Quốc hội?",
+      "config": "Config B",
+      "faithfulness": 0.9471,
+      "relevance": 0.96,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9768,
+      "answer": "Văn bản hợp nhất Luật Giáo dục mang số hiệu 72/VBHN-VPQH của Văn phòng Quốc hội [Document 1]."
+    },
+    {
+      "index": 12,
+      "question": "Luật Giáo dục quy định mục tiêu giáo dục của nước ta là gì?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 1.0,
+      "answer": "Luật Giáo dục quy định mục tiêu giáo dục của nước ta nhằm phát triển toàn diện con người Việt Nam có đạo đức, tri thức, văn hóa, sức khỏe, thẩm mỹ và nghề nghiệp; có phẩm chất, năng lực và ý thức công dân; có lòng yêu nước, tinh thần dân tộc, trung thành với lý tưởng độc lập dân tộc và chủ nghĩa xã hội; phát huy tiềm năng, khả năng sáng tạo của mỗi cá nhân; nâng cao dân trí, phát triển nguồn nhân lực, bồi dưỡng nhân tài [Document 2]."
+    },
+    {
+      "index": 13,
+      "question": "Theo Luật Ngân sách nhà nước, mức bố trí dự phòng ngân sách nhà nước ở mỗi cấp ngân sách là bao nhiêu phần trăm tổng chi?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 0.8941,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9735,
+      "answer": "Theo Luật Ngân sách nhà nước, mức bố trí dự phòng ngân sách nhà nước ở mỗi cấp ngân sách là từ 2% đến 5% tổng chi ngân sách mỗi cấp [Document 1]."
+    },
+    {
+      "index": 14,
+      "question": "Dự phòng ngân sách nhà nước được sử dụng vào những mục đích cấp bách nào?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 0.9474,
+      "precision": 1.0,
+      "average": 0.9868,
+      "answer": "Dự phòng ngân sách nhà nước được sử dụng vào những mục đích cấp bách như sau:\n\n1. Chi phòng, chống, khắc phục hậu quả thiên tai, thảm họa, dịch bệnh.\n2. Đáp ứng nhu cầu chi của ngân sách trong trường hợp thu ngân sách nhà nước hoặc vay để bù đắp bội chi không đạt dự toán.\n3. Thực hiện các nhiệm vụ về quốc phòng, an ninh và nhiệm vụ cấp bách khác phát sinh ngoài dự toán mà sau khi sắp xếp lại ngân sách, sử dụng hết dự phòng ngân sách mà vẫn chưa đủ nguồn [Document 1], [Document 5]."
+    },
+    {
+      "index": 15,
+      "question": "Văn bản hợp nhất Luật Ngân sách nhà nước có số hiệu bao nhiêu của Văn phòng Quốc hội?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 0.9688,
+      "recall": 1.0,
+      "precision": 1.0,
+      "average": 0.9922,
+      "answer": "Văn bản hợp nhất Luật Ngân sách nhà nước có số hiệu 89/VBHN-VPQH của Văn phòng Quốc hội [Document 1]."
+    },
+    {
+      "index": 16,
+      "question": "Theo Luật Ngân sách nhà nước, nguyên tắc cân đối ngân sách nhà nước quy định thu ngân sách phải bảo đảm những khoản chi nào?",
+      "config": "Config B",
+      "faithfulness": 1.0,
+      "relevance": 1.0,
+      "recall": 0.8696,
+      "precision": 1.0,
+      "average": 0.9674,
+      "answer": "Theo Luật Ngân sách nhà nước, nguyên tắc cân đối ngân sách nhà nước quy định rằng thu ngân sách phải bảo đảm tổng số thu từ thuế, phí, lệ phí và các khoản thu khác thuộc ngân sách lớn hơn tổng số chi thường xuyên và góp phần tích lũy ngày càng cao để chi đầu tư phát triển [Document 5]."
+    }
+  ],
+  "worst_cases": [
+    {
+      "index": 3,
+      "question": "Những thành viên chính thức nào tham gia đoàn đại biểu cấp cao tháp tùng Tổng Bí thư, Chủ tịch nước Tô Lâm đi Mỹ và Canada?",
+      "config": "Config A",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.2453,
+      "precision": 1.0,
+      "average": 0.6238,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 3,
+      "question": "Những thành viên chính thức nào tham gia đoàn đại biểu cấp cao tháp tùng Tổng Bí thư, Chủ tịch nước Tô Lâm đi Mỹ và Canada?",
+      "config": "Config B",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.3962,
+      "precision": 1.0,
+      "average": 0.6616,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 6,
+      "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, hành vi điều khiển phương tiện tham gia giao thông khi có nồng độ cồn bị quy định như thế nào?",
+      "config": "Config A",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.5789,
+      "precision": 1.0,
+      "average": 0.7072,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 8,
+      "question": "Người lái xe chỉ được vượt xe khác khi đáp ứng những điều kiện an toàn nào theo quy định pháp luật giao thông đường bộ?",
+      "config": "Config B",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.8387,
+      "precision": 1.0,
+      "average": 0.7722,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    },
+    {
+      "index": 6,
+      "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, hành vi điều khiển phương tiện tham gia giao thông khi có nồng độ cồn bị quy định như thế nào?",
+      "config": "Config B",
+      "faithfulness": 0.85,
+      "relevance": 0.4,
+      "recall": 0.8947,
+      "precision": 1.0,
+      "average": 0.7862,
+      "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có."
+    }
+  ]
+}

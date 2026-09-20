@@ -56,3 +56,6 @@ chroma_db/
 # OS
 .DS_Store
 Thumbs.db
+
+# Streamlit local config
+.streamlit/
