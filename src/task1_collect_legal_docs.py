@@ -1,45 +1,49 @@
-"""
-Task 1 — Thu thập tài liệu chính sách/quy định.
-
-Hướng dẫn:
-    1. Chọn chủ đề của nhóm.
-    2. Tìm tối thiểu 3 tài liệu PDF/DOCX từ nguồn công khai.
-    3. Lưu file gốc vào data/landing/legal/.
-    4. Đặt tên không dấu và thể hiện đúng nội dung.
-
-Ví dụ tài liệu: học phí, học bổng, ký túc xá, quy trình đăng ký.
-Nếu website chặn crawler, hãy chọn nguồn công khai khác; không vượt WAF.
-"""
-
+import os
 from pathlib import Path
+from urllib.parse import urljoin, urlparse
+import requests
+from bs4 import BeautifulSoup
 
+# Khởi tạo thư mục lưu file
+DATA_DIR = Path("downloaded_pdfs")
+DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
+# Danh sách nguồn trang web cần cào
+sources = {
+    "page_1": "https://example.com/documents",
+    # thêm các trang khác vào đây nếu có
+}
 
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
 
-def setup_directory() -> None:
-    """Tạo thư mục lưu tài liệu gốc."""
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    print(f"Ready: {DATA_DIR}")
-
-
-def download_documents() -> None:
-    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
-
-
-if __name__ == "__main__":
-    setup_directory()
-    download_documents()
+# 1. Duyệt qua từng trang web để lấy HTML
+for page_name, target_url in sources.items():
+    try:
+        response = requests.get(target_url, headers=headers, timeout=30)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, "html.parser")
+        
+        # 2. Tìm tất cả các thẻ <a> có đuôi .pdf
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if href.lower().endswith(".pdf"):
+                full_url = urljoin(target_url, href)
+                
+                # Lấy tên file gốc từ URL (ví dụ: tailieu.pdf)
+                filename = os.path.basename(urlparse(full_url).path)
+                file_path = DATA_DIR / filename
+                
+                # 3. Tải và lưu file PDF
+                try:
+                    pdf_response = requests.get(full_url, headers=headers, timeout=30)
+                    pdf_response.raise_for_status()
+                    file_path.write_bytes(pdf_response.content)
+                    print(f"Đã tải thành công: {filename}")
+                except Exception as err:
+                    print(f"Lỗi khi tải {full_url}: {err}")
+                    
+    except Exception as err:
+        print(f"Lỗi khi truy cập trang {target_url}: {err}")
